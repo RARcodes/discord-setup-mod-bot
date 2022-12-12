@@ -4,7 +4,7 @@ import discord
 
 # Creating client instance - this will be used to interact with the Discord API (connection to Discord)
 client = discord.Client()
-key = "MTA1MTU0NDQ0MDA4ODU3MjA2NA.GOt3Hj.JqWnEPcYOQyoF8Brj_jrreC3ll0Lya0R_KCjd0"
+key = ""
 
 # These are all the words you want to block (the last 2 items are so the bot also deletes messages
 # containing links) - You can add as many terms in here as you'd like.
